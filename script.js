@@ -6,7 +6,7 @@ const scaleSlider = document.getElementById('scaleSlider');
 const rotationSlider = document.getElementById('rotationSlider');
 
 let hatImage = new Image();
-hatImage.src = './5786e2fc-8c3f-4458-bac7-812ab7159505.png'; // your uploaded hat
+hatImage.src = 'file:///C:/Users/jacks/OneDrive/Documents/ShareX/Screenshots/2025-09/NVIDIA_Overlay_Fyjm4kqSjL.png'; // your uploaded hat
 
 let hat = {
   x: canvas.width / 2,
